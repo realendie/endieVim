@@ -1,1 +1,0 @@
-/home/_wyatt/.config/omarchy/current/theme/neovim.lua
